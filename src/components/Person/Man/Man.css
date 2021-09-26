@@ -1,0 +1,35 @@
+.man-container{
+    text-align: center;
+    background:linear-gradient(135deg, #fad961 0%,#f76b1c 100%);
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.man-container img{
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+}
+
+/* add to cart button style */
+.man-container button {background-image: linear-gradient(to right, #16222A 0%, #3A6073  51%, #16222A  100%)}
+.man-container button {
+   margin: 10px;
+   padding: 15px 45px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   border-radius: 10px;
+   cursor: pointer;
+   outline: none;
+   border: none;
+ }
+
+ .man-container button:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
