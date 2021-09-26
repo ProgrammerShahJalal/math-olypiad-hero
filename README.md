@@ -1,4 +1,5 @@
 # Math Olympiad Hero
+![image](https://user-images.githubusercontent.com/79104097/134806307-b0179e0f-3fd9-4df2-998a-b8d2ea61f058.png)
 
 The live site link: https://math-olympiad-hero.netlify.app/
 
